@@ -1,0 +1,43 @@
+127.0.0.1 localhost 
+127.0.0.1 localhost localhost.localdomain 
+0.0.0.0 local 
+255.255.255.255 broadcasthost 
+::1 localhost 
+::1 ip6-localhost 
+::1 ip6-loopback 
+fe80::1%lo0 localhost 
+ff00::0 ip6-localnet 
+ff00::0 ip6-mcastprefix 
+ff02::1 ip6-allnodes 
+ff02::2 ip6-allrouters 
+ff02::3 ip6-allhosts 
+#
+0.1.0.0 voice.gcloudcs.com
+0.1.0.0 .cn
+0.1.0.0 .net
+0.1.0.0 .qq.com
+0.1.0.0 .com.cn
+0.1.0.0 .cnzz.com
+0.1.0.0 .weiyun.com
+0.1.0.0 .qcloud.com
+0.1.0.0 .pstatic.net
+0.1.0.0 .dlied1.qq.com
+0.1.0.0 .gamesafe.qq.com
+0.1.0.0 .tcdn.qq.com
+0.1.0.0 .766xqwx.com
+0.1.0.0 .igamecj.com
+0.1.0.0 .akamaized.net
+0.1.0.0 .proximabeta.com
+0.1.0.0 .pubgmobile.com
+0.1.0.0 .tencent.com
+0.1.0.0 .helpshift.com
+0.1.0.0 .userapi.com
+0.1.0.0 .naver.com
+0.1.0.0 .bqqpx.com
+0.1.0.0 .cftres.com
+0.1.0.0 .igcdn.cn
+0.1.0.0 .imqq.cn
+0.1.0.0 .com
+0.1.0.0 dlied1.qq.com
+0.1.0.0 .hk
+#
